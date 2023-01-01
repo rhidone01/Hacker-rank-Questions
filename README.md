@@ -1,1 +1,1 @@
-#  My solution to some Hacker-rank-Questions
+#Hacker-rank-Questions
